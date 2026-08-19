@@ -1,10 +1,12 @@
 streamlit
 langchain
+langchain-core
 langgraph
 langchain-groq
 langchain-community
 langgraph-checkpoint-postgres
 psycopg[binary]
+psycopg_pool
 python-dotenv
 tavily-python
 requests
